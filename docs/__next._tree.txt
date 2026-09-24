@@ -1,3 +1,3 @@
 :HL["/ai-class-lab/_next/static/css/72749407af1d5e66.css","style"]
-:HL["/ai-class-lab/_next/static/css/23485532b1f62618.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"FOygAg3Z__QgGaQ8gdDF9"}
+:HL["/ai-class-lab/_next/static/css/de0c7456bbcbfb5f.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"UC9HrzQWi-nu0N3X1KoPd"}
